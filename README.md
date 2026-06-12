@@ -56,7 +56,7 @@ The chatbot covers 13 finance topics commonly studied in MBA Applied Finance pro
 ## 📸 Screenshots
 
 ### Agent Creation
-![Agent Creation](screenshots/AGENT%20CREATION.png)
+AGENT CREATION.png
 
 ### Intent List
 ![Intent List](screenshots/INTENT%20LIST.png)
