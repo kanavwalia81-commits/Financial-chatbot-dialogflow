@@ -56,7 +56,7 @@ The chatbot covers 13 finance topics commonly studied in MBA Applied Finance pro
 ## 📸 Screenshots
 
 ### Agent Creation
-AGENT CREATION.png
+![Agent Creation](screenshots/AGENT%20CREATION.png)
 
 ### Intent List
 ![Intent List](screenshots/INTENT%20LIST.png)
@@ -77,8 +77,9 @@ AGENT CREATION.png
 ![Live Chatbot Testing](screenshots/LIVE%20CHATBOT%20TESTING.png)
 
 ---
+---
 
 ## 👩‍💼 Author
 
-**Kanav Walia**
+**Kanav walia**
 MBA Applied Finance | Chitkara University,
