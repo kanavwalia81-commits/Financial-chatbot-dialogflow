@@ -77,7 +77,6 @@ The chatbot covers 13 finance topics commonly studied in MBA Applied Finance pro
 ![Live Chatbot Testing](screenshots/LIVE%20CHATBOT%20TESTING.png)
 
 ---
----
 
 ## 👩‍💼 Author
 
